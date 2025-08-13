@@ -1,3 +1,4 @@
+#Depth First Search Program
 graph = {
     'A' : set(['B', 'C']),
     'B' : set(['A', 'D', 'E']),
